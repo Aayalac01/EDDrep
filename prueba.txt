@@ -1,4 +1,8 @@
 prueba
 
+<<<<<<< HEAD
 
 prueba
+=======
+cambio Aaron
+>>>>>>> e4bfc6abed640ea9eb8737d4db09b8b0e0cca150
